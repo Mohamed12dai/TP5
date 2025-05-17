@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TP5Louayhcine</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Louay Hcine</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_Sensors">All Sensors</string>
+    <string name="menu_Accelerometer">Accelerometer</string>
+    <string name="menu_Gyroscope">Gyroscope</string>
+    <string name="menu_Magnetometre">Magnetometre</string>
+    <string name="menu_Proximity">Proximity</string>
+    <string name="menu_Photometer">¨Photometer</string>
+
+</resources>
